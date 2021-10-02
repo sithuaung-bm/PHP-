@@ -1,7 +1,7 @@
 <?php
-$name="koko";
-$pass="koko123";
-if($name=="koko" && $pass=="koko12345")
+$name="Demo";
+$pass="Demo123";
+if($name=="Demo" && $pass=="Demo123")
 {
 header('location:welcome.html');
 }
