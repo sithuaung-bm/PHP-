@@ -22,13 +22,13 @@
  echo "Sub=".$third;
 ?><hr>
 <?php
- $name="MgMg";
+ $name="Thomas";
  echo $name."<br>";
  //unset($name);
  echo $name;
 ?><hr>
 <?php
- $name="Mg Mg";
+ $name="Grabel Louis";
  var_dump($name);
 ?><hr>
 <?php
